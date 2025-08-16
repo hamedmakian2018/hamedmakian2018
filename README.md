@@ -13,3 +13,5 @@ https://www.freecodecamp.org/certification/fcc2e496536-fe36-409b-b283-c45dffe15e
 ![Certificate](https://github.com/hamedmakian2018/hamedmakian2018/blob/main/certificate.JPG)
 
 https://credentials.databricks.com/66f8e25e-0968-4ddd-9aee-1a412a599d4a#acc.D12aPJ9j
+![Certificate]([https://github.com/hamedmakian2018/hamedmakian2018/blob/main/certificate.JPG](https://github.com/hamedmakian2018/hamedmakian2018/blob/main/Machine_Learning_with_Python.PNG))
+[https://github.com/hamedmakian2018/hamedmakian2018/blob/main/Machine_Learning_with_Python.PNG](https://www.freecodecamp.org/certification/fcc2e496536-fe36-409b-b283-c45dffe15ef4/machine-learning-with-python-v7)
